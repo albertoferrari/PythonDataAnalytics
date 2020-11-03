@@ -8,6 +8,6 @@
 - [Python - Object Oriented Programming](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA01d-Python_oop.pdf)
 - [Python - dizionari](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA01e-Python_dizionari.pdf)
 
-### codice di esemio ed esercizi
+### codice di esempio ed esercizi
 - [Python - introduzione](http://albertoferrari.github.io/PythonDataAnalytics/esercizi/PDA01a-Python.zip)
 
