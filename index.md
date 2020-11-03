@@ -9,5 +9,5 @@
 - [Python - dizionari](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA01e-Python_dizionari.pdf)
 
 ### codice di esempio ed esercizi
-- [Python - introduzione](http://albertoferrari.github.io/PythonDataAnalytics/esercizi/pda01a_python.zip)
+- [esempi ed esercizi](https://github.com/albertoferrari/PythonDataAnalytics/tree/main/esercizi)
 
