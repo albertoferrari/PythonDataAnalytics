@@ -1,6 +1,6 @@
 # Python Data Analytics
 
-http://albertoferrari.github.io/info_lab/
+http://albertoferrari.github.io/PythonDataAnalytics/
 
 Introduction to Python and libraries for Data Analysis
 
