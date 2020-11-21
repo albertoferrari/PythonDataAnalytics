@@ -8,6 +8,7 @@
 - [Python - Object Oriented Programming](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA01d-Python_oop.pdf)
 - [Python - dizionari](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA01e-Python_dizionari.pdf)
 - [Data Analysys](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA02-Data_Analysys.pdf)
+- [NumPy](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA03-Numpy.pdf)
 
 ### codice di esempio ed esercizi
 - [esempi ed esercizi](https://github.com/albertoferrari/PythonDataAnalytics/tree/main/esercizi)
