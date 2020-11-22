@@ -10,7 +10,7 @@
 - [Data Analysys](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA02-Data_Analysys.pdf)
 - [NumPy](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA03-Numpy.pdf)
 - [Pandas](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA04-Pandas.pdf)
-- [MatPlotLib](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA05-Matplotlib.pdf)
+- [MatPlotLib](http://albertoferrari.github.io/PythonDataAnalytics/lezioni/PDA05-MatPlotLib.pdf)
 
 ### codice di esempio ed esercizi
 - [esempi ed esercizi](https://github.com/albertoferrari/PythonDataAnalytics/tree/main/esercizi)
